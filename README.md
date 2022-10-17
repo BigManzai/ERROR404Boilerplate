@@ -2,3 +2,5 @@
 ERROR 404 Boilerplate Web
 
 Eine Error 404 Seite mit verschiedenen gezeichneten Hintergründen. 
+
+Eigene Schriften kann man hier Online erstellen: https://de.cooltext.com/
